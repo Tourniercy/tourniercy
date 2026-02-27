@@ -12,4 +12,4 @@
 
 ![](https://komarev.com/ghpvc/?username=tourniercy)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=tourniercy&show_icons=true&include_all_commits=true&count_private=true) 
+![Github stats](https://gitcard.rilcy.app/stats/tourniercy) 
