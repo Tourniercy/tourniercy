@@ -12,4 +12,4 @@
 
 ![](https://komarev.com/ghpvc/?username=tourniercy)
 
-![Github stats](https://gitcard.rilcy.app/stats/tourniercy) 
+![GitHub Stats](https://api-gitcard.rilcy.app/stats/tourniercy)
